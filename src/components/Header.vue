@@ -1,6 +1,6 @@
 <template>
   <header>
-    <img src""/>
+    <img src"../img/"/>
     <h1>QR-Code Generator</h1>
   </header>
 </template>
